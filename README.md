@@ -7,7 +7,7 @@ Course membahas analisis dan forecasting data time series menggunakan Python, mu
 > 🎓 **Full course tersedia di Udemy**  
 > [Time Series Forecasting dengan Python: ARIMA, SARIMA & LSTM](https://www.udemy.com/course/ilmudata-time-series/?referralCode=55F2B83A1EC609F3ED62)
 
----
+
 
 ## 📌 Apa yang Dipelajari
 
@@ -28,7 +28,7 @@ Topik utama meliputi:
 - 🔗 Multivariate Time Series dengan VAR, VECM, VARIMA, dan LSTM
 - 🧩 Studi kasus berbasis data time series
 
----
+
 
 ## 🧭 Learning Path
 
@@ -43,7 +43,7 @@ flowchart LR
     G --> H["Real-World Case Studies"]
 ```
 
----
+
 
 ## 🧪 Model yang Dibahas
 
@@ -72,7 +72,7 @@ flowchart LR
 - Cointegrated VAR
 - Multivariate LSTM
 
----
+
 
 ## 🧩 Studi Kasus
 
@@ -84,7 +84,7 @@ Beberapa studi kasus yang digunakan dalam course:
 
 Studi kasus digunakan untuk memperlihatkan bagaimana konsep time series diterapkan pada data dengan karakteristik yang berbeda.
 
----
+
 
 ## 👥 Untuk Siapa Course Ini?
 
@@ -99,7 +99,7 @@ Course ini cocok untuk:
 **Level:** All Levels  
 Pemahaman dasar Python dan pengolahan data akan membantu, tetapi materi time series dibangun mulai dari fundamental.
 
----
+
 
 ## 🎯 Fokus Course
 
@@ -109,7 +109,7 @@ Tujuan course bukan hanya menghasilkan grafik prediksi, tetapi memahami proses f
 
 Model yang lebih kompleks tidak selalu menghasilkan forecast yang lebih baik. Pemahaman terhadap karakteristik data, evaluasi yang benar, dan pemilihan model yang sesuai tetap menjadi bagian penting dari workflow time series.
 
----
+
 
 ## 🎓 Full Course
 
@@ -117,14 +117,14 @@ Materi lengkap, video lecture, demonstrasi, dan implementasi tersedia di Udemy:
 
 👉 **[Time Series Forecasting dengan Python: ARIMA, SARIMA & LSTM](https://www.udemy.com/course/ilmudata-time-series/?referralCode=55F2B83A1EC609F3ED62)**
 
----
+
 
 
 ## 📚 Course Language
 
 🇮🇩 Bahasa Indonesia
 
----
+
 
 ## 📄 License
 
